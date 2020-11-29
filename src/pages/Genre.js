@@ -43,7 +43,7 @@ const Genre = props => {
     useEffect(() => {
         getData();
         window.scrollTo({ top: 0, behavior: 'smooth' });
-    }, [genreType, page]);
+    });
 
     if (error) {
         return (
