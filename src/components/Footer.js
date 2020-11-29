@@ -9,6 +9,7 @@ const Footer = () => {
                     <a
                         href="https://github.com/archerzou/movie-library"
                         target="_blank"
+                        rel="noopener noreferrer"
                     >
                         Repository
                     </a>
