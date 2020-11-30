@@ -5,7 +5,7 @@ const Footer = () => {
         <footer>
             <div className="container">
                 <div className="footer-content">
-                    <p>© Archer Zou</p>
+                    <p>👨‍💻 Archer Zou</p>
                     <a
                         href="https://github.com/archerzou/movie-library"
                         target="_blank"

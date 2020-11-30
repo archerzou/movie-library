@@ -57,7 +57,7 @@ const Browse = props => {
                         <h1>{typeFormatted} Movies</h1>
                         <h2 className="page-desc">
                             Browse thousands of {type.replace(/_/g, ' ')} movies
-                            through TMDb API.
+                            in real-time.
                         </h2>
                     </div>
                     <MovieList movies={movies} />
